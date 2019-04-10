@@ -1,7 +1,10 @@
-$ git branch -r --merged master
+`$ git branch -r --merged master`
 
 The following branches have been merged into signalapp/Signal-iOS/master and are candidates for deletion:
 
+(note you probably don't need to delete `origin/master` 😂)
+
+```
 origin/charlesmchen/albumProgress
 origin/charlesmchen/attachmentDownloads
 origin/charlesmchen/callVsBackground
@@ -122,3 +125,4 @@ origin/release/2.36.0
 origin/release/2.37.0
 origin/release/2.37.1
 origin/release/2.38.0
+```
