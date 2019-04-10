@@ -14,7 +14,7 @@
 * Move the feature requests into a new repo/project/tracking system
 * Create a pipeline or strategy to test bugs
 
-### Create strategy for creation of new issues
+### [Create strategy for creation of new issues](https://github.com/tomj/signal-ios-issues/issues/1)
 * Right now there appears to be a bit of friction when adding a new issue to the upstream repo, in addition to the potential for issues to be created which should not be created in the first place (feature requests, e.g.).  Using the new GitHub [issue template feature](https://help.github.com/en/articles/about-issue-and-pull-request-templates#issue-templates) will likely reduce that somewhat
 
 ### Git repo hygiene
