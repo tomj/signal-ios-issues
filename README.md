@@ -23,7 +23,7 @@
 * Create and institute basic branching strategy.  It would help if contributors of all flavors stuck to forking and then running PR's from their fork to the upstream as this would solve the merged/unmerged branch issue
 
 ### Contribution guidelines
-* Right now there are limited guidelines on how contributions should be made.  Is Swift ok, or should contributors stick to Obj-C?  Is there a coding standard?  A linting template?  etc etc
+* Right now there are limited guidelines on how contributions should be made.  Is Swift ok, or should contributors stick to Obj-C?  Is there a coding standard?  A linting template?  Storyboards or views in code?  etc etc
 
 ### Specifications
 * Currently when filing an issue the question is asked: "I am submitting a bug report for existing functionality that does not work as intended"
