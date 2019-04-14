@@ -18,6 +18,9 @@
 * Right now there appears to be a bit of friction when adding a new issue to the upstream repo, in addition to the potential for issues to be created which should not be created in the first place (feature requests, e.g.).  Using the new GitHub [issue template feature](https://help.github.com/en/articles/about-issue-and-pull-request-templates#issue-templates) will likely reduce that somewhat
 * Consider introduction of a GitHub App like [Reaction Comments](https://probot.github.io/apps/reaction/) to stop the run on `+1🎉` style comments
 
+### Create user testing strategy/onboarding process
+* There are many issues which require testing.  Come up with a way to list test cases and have the community work on them
+
 ### Git repo hygiene
 * At time of writing there are [229 unmerged](./unmerged_git_branches.md) and [119 merged](./merged_git_branches.md) git branches in the upstream repo.  At a minimum the merged release branches should have their merge commits tagged and then the branches deleted.  The unmerged branches should be triaged and deleted as necessary.  Clean repo's are much easier to work on as they reduce cognitive overhead when onboarding
 * Create and institute basic branching strategy.  It would help if contributors of all flavors stuck to forking and then running PR's from their fork to the upstream as this would solve the merged/unmerged branch issue
